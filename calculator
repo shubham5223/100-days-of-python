@@ -1,0 +1,7 @@
+m = int(input("put your first value= \n"))
+n = int(input("put your second value= \n"))
+print(m+n)  
+print(m*n)
+print(m/n)
+print(m//n)
+print(m**n)
